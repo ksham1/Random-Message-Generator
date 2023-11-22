@@ -22,7 +22,6 @@ const attackers = [
     {player: "Pele", born: 1940, country: "Brazil", message: "' O Rei', 'The King', the only man to win three world cups."},
     {player: "Ronaldo", born: 1976, country: "Brazil", message: "The original Ronaldo and a true phemonenon"}
 ]
-// console.log(defenders[0].message);
 
 function chooseRandomPlayer(position) {
     // This function will randomly pick players within each position
